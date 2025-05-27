@@ -1,7 +1,10 @@
 # -drgviswanathan-challenge
+## 🎥 Video Explanation
+
+[Click here to watch the video](./pascal-triangle-video.mp4)
+
 Submission for Pascal's Triangle II problem
 # Pascal's Triangle II – Leetcode #119
-
 ## Problem Statement
 
 Given an integer `rowIndex`, return the rowIndex<sup>th</sup> (0-indexed) row of Pascal’s Triangle.
