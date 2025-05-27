@@ -1,7 +1,8 @@
 # -drgviswanathan-challenge
 ## 🎥 Video Explanation
 
-[Click here to watch the video](./pascal-triangle-video.mp4)
+[▶️ Watch the explanation video](./pascaltriangle.mp4)
+
 
 Submission for Pascal's Triangle II problem
 # Pascal's Triangle II – Leetcode #119
